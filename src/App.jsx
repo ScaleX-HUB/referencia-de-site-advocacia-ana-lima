@@ -28,7 +28,7 @@ function App() {
       <h1 className="name">Ana Marcely Lima</h1>
       <p className="title">Advogada Trabalhista</p>
 
-      <p className="description">Defendo <strong>empresas e trabalhadores</strong> — sem escolher lado.</p>
+      <p className="description">Soluções em litígios trabalhistas e previdenciários — consultoria preventiva e defesa estratégica.</p>
       <p className="description-2">Mestranda UFPE · IA &amp; Futuro do Trabalho</p>
 
       <div className="tags">
